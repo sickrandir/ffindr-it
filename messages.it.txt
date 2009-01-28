@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+  <file orginal="global" source-language="it_IT" datatype="plaintext">
+    <body>
+
+      ///* meta *///
+
+      <trans-unit>
+        <source>meta-title</source>
+        <target></target>
+        //<target>find Frisbee anywhere.</target>
+      </trans-unit>
+
+      ///* global *///
+
+      <trans-unit>
+        <source>global-frisbee-finder</source>
+        <target></target>
+        //<target>Frisbee Finder</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-none</source>
+        <target></target>
+        //<target>None.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-top</source>
+        <target></target>
+        //<target>back to top</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-read-more</source>
+        <target></target>
+        //<target>read more</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-login</source>
+        <target></target>
+        //<target>login</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-logout</source>
+        <target></target>
+        //<target>logout</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-find</source>
+        <target></target>
+        //<target>find</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-register</source>
+        <target></target>
+        //<target>register</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-create</source>
+        <target></target>
+        //<target>create</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-send</source>
+        <target></target>
+        //<target>send</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-update</source>
+        <target></target>
+        //<target>update</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-apply</source>
+        <target></target>
+        //<target>apply</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-edit</source>
+        <target></target>
+        //<target>edit</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-save</source>
+        <target></target>
+        //<target>save</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-delete</source>
+        <target></target>
+        //<target>delete</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-back</source>
+        <target></target>
+        //<target>back</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-anonymous</source>
+        <target></target>
+        //<target>anonymous</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-button-find-on-map</source>
+        <target></target>
+        //<target>Mark on map</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-please-select</source>
+        <target></target>
+        //<target>Please select...</target>
+      </trans-unit>
+
+      ///* global/continents *///
+
+      <trans-unit>
+        <source>global-continent-unknown</source>
+        <target>Unknown</target>
+        //<target>Unknown</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-international</source>
+        <target></target>
+        //<target>International</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-north-america</source>
+        <target></target>
+        //<target>North America</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-south-america</source>
+        <target></target>
+        //<target>South America</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-africa</source>
+        <target></target>
+        //<target>Africa</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-europe</source>
+        <target></target>
+        //<target>Europe</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-asia</source>
+        <target></target>
+        //<target>Asia</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>global-continent-oceania</source>
+        <target></target>
+        //<target>Oceania</target>
+      </trans-unit>
+
+      ///* form/BlogPostForm *///
+
+      <trans-unit>
+        <source>form/BlogPostForm.class.php_label_title</source>
+        <target></target>
+        //<target>Title:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/BlogPostForm.class.php_label_body</source>
+        <target></target>
+        //<target>Content:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/BlogPostForm.class.php_label_is-published</source>
+        <target></target>
+        //<target>Published?:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/BlogPostForm.class.php_label_allow-comments</source>
+        <target></target>
+        //<target>Allow comments?:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/BlogPostForm.class.php_validate_title-required</source>
+        <target></target>
+        //<target>Please choose a title.</target>
+      </trans-unit>
+
+      ///* form/CommentForm *///
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_label_name</source>
+        <target></target>
+        //<target>Name:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_label_email</source>
+        <target></target>
+        //<target>E-mail:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_label_notification</source>
+        <target></target>
+        //<target>Follow comments?</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_label_body</source>
+        <target></target>
+        //<target>Comment:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_label_captcha</source>
+        <target></target>
+        //<target>Captcha:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_validate_email-required</source>
+        <target></target>
+        //<target>Please provide an e-mail address (will not be published).</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/CommentForm.class.php_validate_captcha-error</source>
+        <target></target>
+        //<target>Please try to decipher the two words.</target>
+      </trans-unit>
+
+      ///* form/ContactForm *///
+
+      <trans-unit>
+        <source>form/ContactForm.class.php_label_message</source>
+        <target></target>
+        //<target>Your message:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/ContactForm.class.php_validate_name-required</source>
+        <target></target>
+        //<target>Please provide your name</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/ContactForm.class.php_validate_message-required</source>
+        <target></target>
+        //<target>Didn't you want to write something?</target>
+      </trans-unit>
+
+      ///* form/EventForm *///
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_format</source>
+        <target></target>
+        //<target>Format:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_surface</source>
+        <target></target>
+        //<target>Surface:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_divisions</source>
+        <target></target>
+        //<target>Divisions:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_level</source>
+        <target></target>
+        //<target>Level of play:</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>form/EventForm.class.php_label_date</source>
+        <target></target>
+        //<target>Date:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_date-start</source>
+        <target></target>
+        //<target>Begin date:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_date-end</source>
+        <target></target>
+        //<target>End date:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_results</source>
+        <target></target>
+        //<target>Results:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_results-added</source>
+        <target></target>
+        //<target>Results included?:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_canceled</source>
+        <target></target>
+        //<target>Canceled?:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_validate_name-not-unique</source>
+        <target></target>
+        //<target>Please verify if event already exists</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_type_validate_date-start-invalid</source>
+        <target></target>
+        //<target>Please provide a valid start date</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_required</source>
+        <target></target>
+        //<target>required information</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_required-default</source>
+        <target></target>
+        //<target>Required</target>
+      </trans-unit>
+      
+      ///* form/FilterForm *///
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-keyword</source>
+        <target></target>
+        //<target>By keyword:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-keyword-or</source>
+        <target></target>
+        //<target>Match at least one term (OR)</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-keyword-and</source>
+        <target></target>
+        //<target>Match all terms (AND)</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-location</source>
+        <target></target>
+        //<target>By location:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-distance</source>
+        <target></target>
+        //<target>regarding distance</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-distance-km</source>
+        <target></target>
+        //<target>km around</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-country</source>
+        <target></target>
+        //<target>regarding countries</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_inverse</source>
+        <target></target>
+        //<target>Inverse selection</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-continent</source>
+        <target></target>
+        //<target>regarding continents</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-discipline</source>
+        <target></target>
+        //<target>By discipline:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-format</source>
+        <target></target>
+        //<target>By format¹:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-surface</source>
+        <target></target>
+        //<target>By surface¹:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-division</source>
+        <target></target>
+        //<target>By division¹:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-level</source>
+        <target></target>
+        //<target>By level of play¹:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterForm.class.php_label_by-type</source>
+        <target></target>
+        //<target>By link type:</target>
+      </trans-unit>
+
+      ///* form/FilteEditForm *///
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_gcal</source>
+        <target></target>
+        //<target>Export to Google Calendar:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_year</source>
+        <target></target>
+        //<target>Display events by year:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_order</source>
+        <target></target>
+        //<target>Order events by:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_items</source>
+        <target></target>
+        //<target>Number of events:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_ignore-past</source>
+        <target></target>
+        //<target>Ignore past events:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_filter-partner</source>
+        <target></target>
+        //<target>%1% certified events only:</target>
+        // e.g.   BULA certified events only
+      </trans-unit>
+
+      ///* form/LoginForm *///
+
+      <trans-unit>
+        <source>form/LoginForm.class.php_default_username</source>
+        <target></target>
+        //<target>Your username</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LoginForm.class.php_label_username</source>
+        <target></target>
+        //<target>Your username:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LoginForm.class.php_label_password</source>
+        <target></target>
+        //<target>Your password:</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>form/LoginForm.class.php_validate_invalid</source>
+        <target></target>
+        //<target>Account does not exist or bad password</target>
+      </trans-unit>
+
+      ///* form/LinkForm *///
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_disciplines</source>
+        <target></target>
+        //<target>Disciplines:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_linktype</source>
+        <target></target>
+        //<target>Link type:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_location</source>
+        <target></target>
+        //<target>Location:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_country</source>
+        <target></target>
+        //<target>Country:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_website</source>
+        <target></target>
+        //<target>Website:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_contact_name</source>
+        <target></target>
+        //<target>Contact name:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_contact_phone</source>
+        <target></target>
+        //<target>Contact phone:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_contact_email</source>
+        <target></target>
+        //<target>Contact e-mail:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_body</source>
+        <target></target>
+        //<target>Description:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_label_owner</source>
+        <target></target>
+        //<target>Owner:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_label_deleted</source>
+        <target></target>
+        //<target>Deleted?:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_name-max</source>
+        <target></target>
+        //<target>The name must not exceed 200 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_name-required</source>
+        <target></target>
+        //<target>Please name your link.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_disciplines-required</source>
+        <target></target>
+        //<target>Please select at least one discipline.</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>form/LinkForm.class.php_format-required</source>
+        <target></target>
+        //<target>Please select the format.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_surface-required</source>
+        <target></target>
+        //<target>Please select the surface.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_divisions-required</source>
+        <target></target>
+        //<target>Please select the divisions.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_level-required</source>
+        <target></target>
+        //<target>Please select the level of play.</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>form/LinkForm.class.php_type-required</source>
+        <target></target>
+        //<target>Please select the type of your link.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_location-max</source>
+        <target></target>
+        //<target>The location must not exceed 50 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_location-required</source>
+        <target></target>
+        //<target>Please provide a place.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_location-picker</source>
+        <target></target>
+        //<target>Please mark the location on the map.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_website-invalid</source>
+        <target></target>
+        //<target>Please provide a valid address.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_website-max</source>
+        <target></target>
+        //<target>The website must not exceed 100 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_contact-name-max</source>
+        <target></target>
+        //<target>The contact name must not exceed 100 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_contact-phone-max</source>
+        <target></target>
+        //<target>The contact phone must not exceed 100 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/LinkForm.class.php_not-unique-link</source>
+        <target></target>
+        //<target>A link with the same name exists already for this country.</target>
+      </trans-unit>
+
+      ///* form/PasswordRequestForm *///
+
+      <trans-unit>
+        <source>form/PasswordRequestForm.class.php_validate_email-required</source>
+        <target></target>
+        //<target>Please provide the e-mail address you used to register.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/PasswordRequestForm.class.php_label_email</source>
+        <target></target>
+        //<target>Your e-mail address:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/PasswordRequestForm.class.php_validate_email-not-exist</source>
+        <target></target>
+        //<target>A ffindr user with this e-mail address does not exists</target>
+      </trans-unit>
+
+      ///* form/UserForm *///
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_username</source>
+        <target></target>
+        //<target>Choose a username:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_password</source>
+        <target></target>
+        //<target>Pick a password:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_password-confirm</source>
+        <target></target>
+        //<target>Confirm password:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_name</source>
+        <target></target>
+        //<target>Your name:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_email</source>
+        <target></target>
+        //<target>Your e-mail address:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_country</source>
+        <target></target>
+        //<target>Your country:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_language</source>
+        <target></target>
+        //<target>Your ffindr language:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_terms</source>
+        <target></target>
+        //<target>I accept %1% and %2%:</target>
+        // e.g. Accept terms and privacy
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_label_remember</source>
+        <target></target>
+        //<target>Remember me:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_username-required</source>
+        <target></target>
+        //<target>Username is required.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_username-invalid</source>
+        <target></target>
+        //<target>Please use only alphanumeric characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_username-min-length</source>
+        <target></target>
+        //<target>Username too short, choose at least 5 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_username-max-length</source>
+        <target></target>
+        //<target>Username too long, choose not more than 20 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_username-not-unique</source>
+        <target></target>
+        //<target>Username already taken.</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_password-required</source>
+        <target></target>
+        //<target>Password is required.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_password-min-length</source>
+        <target></target>
+        //<target>Password is too short, choose at least 4 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_password-max-length</source>
+        <target></target>
+        //<target>Password is too long, choose not more than 20 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_password-dont-match</source>
+        <target></target>
+        //<target>Passwords don't match.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_email-max-length</source>
+        <target></target>
+        //<target>E-mail address too long, choose not more than 100 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_email-invalid</source>
+        <target></target>
+        //<target>Please provide a valid e-mail address.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_email-required</source>
+        <target></target>
+        //<target>E-mail address is required.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_email-not-unique</source>
+        <target></target>
+        //<target>E-mail address already taken.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_name-max-length</source>
+        <target></target>
+        //<target>Name too long, choose not more than 100 characters.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/UserForm.class.php_validate_terms-required</source>
+        <target></target>
+        //<target>Please confirm that you accept the Terms of Use and the Privacy Policy.</target>
+      </trans-unit>
+
+      ///* form/RegisterForm *///
+
+      <trans-unit>
+        <source>form/RegisterForm.class.php_label_password</source>
+        <target></target>
+        //<target>New password:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/RegisterForm.class.php_label_password-confirm</source>
+        <target></target>
+        //<target>Confirm new password:</target>
+      </trans-unit>
+
+      ///* form/SearchForm *///
+
+      <trans-unit>
+        <source>form/SearchForm.class.php_label_search</source>
+        <target></target>
+        //<target>Keyword:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/SearchForm.class.php_validate_keyword-required</source>
+        <target></target>
+        //<target>Please enter a keyword</target>
+      </trans-unit>
+
+      ///* helper/blog *///
+
+      <trans-unit>
+        <source>helper/BlogHelper.php_comments</source>
+        <target></target>
+        //<target>[0]0 comments|[1]%1% comment|(1,+Inf]%1% comments</target>
+        // e.g. 0 comments|1 comment|2 comments
+      </trans-unit>
+
+      ///* helper/event *///
+      
+      <trans-unit>
+        <source>helper/EventHelper.php_certify</source>
+        <target></target>
+        //<target>Certify as %1% event</target>
+        // e.g. Certify as BULA event
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/EventHelper.php_remove-certificate</source>
+        <target></target>
+        //<target>Remove %1% certificate</target>
+        // e.g. Remove BULA certificate
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/EventHelper.php_add-to-favourites</source>
+        <target></target>
+        //<target>Add to favourites</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/EventHelper.php_added-to-favourites</source>
+        <target></target>
+        //<target>Added to your favourites</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/EventHelper.php_remove-from-favourites</source>
+        <target></target>
+        //<target>remove?</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/EventHelper.php_remove-favourite-confirm</source>
+        <target></target>
+        //<target>Please confirm to remove from favourites!</target>
+      </trans-unit>
+
+      ///* helper/global *///
+
+      <trans-unit>
+        <source>helper/GlobalHelper.php_contact</source>
+        <target>Send a message</target>
+      </trans-unit>
+
+      ///* helper/link *///
+
+      <trans-unit>
+        <source>helper/LinkHelper.php-flagged-by-you</source>
+        <target></target>
+        //<target>You flagged this link for review</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/LinkHelper.php-flag-as-spam</source>
+        <target></target>
+        //<target>Flag for review</target>
+      </trans-unit>
+
+      ///* templates/header *///
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_about</source>
+        <target></target>
+        //<target>What is ffindr?</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_spread-the-word</source>
+        <target></target>
+        //<target>Spread the word!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_privacy</source>
+        <target></target>
+        //<target>Privacy</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_terms</source>
+        <target></target>
+        //<target>Terms</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_contact</source>
+        <target></target>
+        //<target>Contact</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-top_blog</source>
+        <target></target>
+        //<target>Blog</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-nav_home</source>
+        <target></target>
+        //<target>Home</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-nav_find</source>
+        <target></target>
+        //<target>Find</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-nav_tournaments</source>
+        <target></target>
+        //<target>Tournaments</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-nav_links</source>
+        <target></target>
+        //<target>Ultilinks</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_menu-nav_create</source>
+        <target></target>
+        //<target>Add</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_search</source>
+        <target></target>
+        //<target>search...</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>templates/header.php_welcome</source>
+        <target>Welcome back, %1%!</target>
+        //<target>Welcome back, %1%!</target>
+        // e.g.   Welcome back, Patrick!
+      </trans-unit>
+      
+      ///* blog/action *///
+
+      <trans-unit>
+        <source>blog/actions.class.php_title_list-by-month</source>
+        <target></target>
+        //<target>Blog archive for %1%</target>
+        // e.g. Archive for July 2008
+      </trans-unit>
+
+      <trans-unit>
+        <source>blog/actions.class.php_title_recent-drafts</source>
+        <target></target>
+        //<target>Saved blog post drafts</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>blog/action.class.php_title_add</source>
+        <target></target>
+        //<target>Create new blog post</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>blog/action.class.php_title_edit</source>
+        <target></target>
+        //<target>Modify blog post</target>
+      </trans-unit>
+
+      ///* blog/_options *///
+
+      <trans-unit>
+        <source>blog/_options.php_delete</source>
+        <target></target>
+        //<target>Remove post</target>
+      </trans-unit>
+
+      ///* blog/_post *///
+
+      <trans-unit>
+        <source>blog/_post.php-posted-by</source>
+        <target></target>
+        //<target>Posted by %1%</target>
+        // e.g. Posted by Sasha
+      </trans-unit>
+
+      <trans-unit>
+        <source>blog/_post.php-on</source>
+        <target></target>
+        //<target>on %1%</target>
+        // e.g. on 12 May 2008
+      </trans-unit>
+
+      <trans-unit>
+        <source>blog/_post.php-comments</source>
+        <target></target>
+        //<target>Comments</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>blog/_post.php-comments-closed</source>
+        <target></target>
+        //<target>Comments are closed.</target>
+      </trans-unit>
+
+      ///* comment/action *///
+
+      <trans-unit>
+        <source>comment/action.class.php_index-comments-for</source>
+        <target></target>
+        //<target>Comments for %1%</target>
+        // e.g. Comments for "Paganello 2009"
+      </trans-unit>
+
+      <trans-unit>
+        <source>comment/action.class.php_index-title-add</source>
+        <target></target>
+        //<target>Add comment</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>comment/action.class.php_index-add-first-comment</source>
+        <target></target>
+        //<target>Be the first to comment %1%</target>
+        // e.g. Be the first to comment "Paganello 2009"
+      </trans-unit>
+
+      ///* comment/index *///
+
+      <trans-unit>
+        <source>comment/indexSuccess.class.php_says-on</source>
+        <target></target>
+        //<target>%1% says on %2%</target>
+        // Sasha says on 12 May 2008
+      </trans-unit>
+
+      ///* comment/_options *///
+
+      <trans-unit>
+        <source>comment/_options.php_edit</source>
+        <target></target>
+        //<target>Modify comment</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>comment/_options.php_delete</source>
+        <target></target>
+        //<target>Delete comment</target>
+      </trans-unit>
+
+      ///* content/teaser_box *///
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser1-title</source>
+        <target></target>
+        //<target>ffindr enables players to...</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser1-body1</source>
+        <target></target>
+        //<target>discover Frisbee world-wide</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser1-body2</source>
+        <target></target>
+        //<target>apply powerful search filters</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser1-body3</source>
+        <target></target>
+        //<target>create and subscribe to personalised RSS feeds</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser2-title</source>
+        <target></target>
+        //<target>ffindr helps organisers to...</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser2-body1</source>
+        <target></target>
+        //<target>share Frisbee with the world</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser2-body2</source>
+        <target></target>
+        //<target>quickly create a website for each event</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/_teaser_box.php_teaser2-body3</source>
+        <target></target>
+        //<target>provide directions with the trip planner</target>
+      </trans-unit>
+
+      ///* content/action *///
+
+      <trans-unit>
+        <source>content/about.php_vision</source>
+        <target></target>
+        //<target>ffindr aims to become the ultimate one-stop solution for finding Frisbee.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php-title-thanks-for-your-feedback</source>
+        <target></target>
+        //<target>Thanks for your feedback</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php-title-mail-failed</source>
+        <target></target>
+        //<target>Mailer problems</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php-title-maintainance</source>
+        <target></target>
+        //<target>Maintenance</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php-title-disabled</source>
+        <target></target>
+        //<target>Disabled</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php_title-error404</source>
+        <target></target>
+        //<target>Error 404</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/action.class.php_title-unauthorized-action</source>
+        <target></target>
+        //<target>Access refused</target>
+      </trans-unit>
+
+      ///* content/index *///
+
+      <trans-unit>
+        <source>content/indexSuccess.php_title_map</source>
+        <target></target>
+        //<target>World map of upcoming Frisbee tournaments</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/indexSuccess.php_title_recent</source>
+        <target></target>
+        //<target>Recently published</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/indexSuccess.php_title_blog</source>
+        <target></target>
+        //<target>Frisbee portal blog</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>content/indexSuccess.php_rss-blog</source>
+        <target></target>
+        //<target>RSS Feed for blog posts</target>
+      </trans-unit>
+      
+      ///* content/create *///
+
+      <trans-unit>
+        <source>content/createSuccess.php_title</source>
+        <target></target>
+        //<target>Publish Frisbee information on ffindr</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/createSuccess.php_add_tournament</source>
+        <target></target>
+        //<target>Add a tournament / event</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/createSuccess.php_add_link</source>
+        <target></target>
+        //<target>Add a link</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/createSuccess.php_warning</source>
+        <target></target>
+        //<target>Please note that you are about to add information anonymously.%1%If you want to modify your information later on, please %2% or %3% first to automatically become its owner.</target>
+        // e.g. Please note that you are about to add information anonymously.   If you want to modify your information later on, please login or register first to automatically become its owner.
+      </trans-unit>
+
+      <trans-unit>
+        <source>content/createSuccess.php_title_contributors</source>
+        <target></target>
+        //<target>Top contributors</target>
+      </trans-unit>
+
+      ///* content/index *///
+
+      <trans-unit>
+        <source>content/mailFailed_body</source>
+        <target></target>
+        //<target>Sorry for the inconvenience.</target>
+      </trans-unit>
+
+      ///* event/action *///
+
+      <trans-unit>
+        <source>event/action.class.php_title_add</source>
+        <target></target>
+        //<target>Add a new tournament or event</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-added</source>
+        <target></target>
+        //<target>Recently added events</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-anonymous</source>
+        <target></target>
+        //<target>Events added by anonymous</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-deleted</source>
+        <target></target>
+        //<target>Events deleted by users</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-popular</source>
+        <target></target>
+        //<target>Popular events</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-reported</source>
+        <target></target>
+        //<target>Events flagged for review</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-results</source>
+        <target></target>
+        //<target>Recently added results</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-upcoming</source>
+        <target></target>
+        //<target>Upcoming events</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listUsergroup_title-certified-by</source>
+        <target></target>
+        //<target>Events certified by %1%</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/action.class.php_listByCountry_title</source>
+        <target></target>
+        //<target>%1% tournament calendar for %2%</target>
+        // e.g. 2008 tournament calendar for Brazil
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/actions.class.php-upcoming-per-country</source>
+        <target></target>
+        //<target>[0]No upcoming events.|[1]%1% upcoming event.|(1,+Inf]%1% upcoming events.</target>
+        // e.g. 34 upcoming events.
+      </trans-unit>
+
+      ///* event/list *///
+
+      <trans-unit>
+        <source>event/listSuccess.php_title</source>
+        <target></target>
+        //<target>Frisbee tournaments around the world</target>
+      </trans-unit>
+
+      ///* event/show *///
+
+      <trans-unit>
+        <source>event/showSuccess.php-description</source>
+        <target></target>
+        //<target>Description</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php-participants</source>
+        <target></target>
+        //<target>Participants</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php-results</source>
+        <target></target>
+        //<target>Results</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php-map</source>
+        <target></target>
+        //<target>Map</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php-trip-planner-text</source>
+        <target></target>
+        //<target>Type your starting location to see how to get there</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php-trip-planner-button</source>
+        <target></target>
+        //<target>get route</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/showSuccess.php_title_vicinity</source>
+        <target></target>
+        //<target>In the vicinity</target>
+      </trans-unit>
+
+      ///* event/details *///
+
+      <trans-unit>
+        <source>event/_details.php_label_contact</source>
+        <target></target>
+        //<target>Contact:</target>
+      </trans-unit>
+
+      ///* event/options *///
+
+      <trans-unit>
+        <source>event/_options.php_edit</source>
+        <target></target>
+        //<target>Modify tournament</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/_options.php_remove</source>
+        <target></target>
+        //<target>Remove tournament</target>
+      </trans-unit>
+
+      ///* event/footer *///
+
+      <trans-unit>
+        <source>event/_footer.php_added</source>
+        <target></target>
+        //<target>Added</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/_footer.php_updated</source>
+        <target></target>
+        //<target>Last update</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/_footer.php_by-on</source>
+        <target></target>
+        //<target>%1% by %2% on %3%</target>
+        // e.g. added by user on 12 february 2008
+      </trans-unit>
+
+      <trans-unit>
+        <source>event/_footer.php_fans</source>
+        <target></target>
+        //<target>Favourite of</target>
+      </trans-unit>
+
+      ///* feed/action *///
+
+      <trans-unit>
+        <source>feed/actions.class.php_title_recent-blog-posts</source>
+        <target></target>
+        //<target>ffindr the blog! Information about Frisbee events and its Web portal</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php_description_recent-blog-posts</source>
+        <target></target>
+        //<target>The RSS Feed of the most recent posts of the ffindr blog.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php_title_recent-blog-comments</source>
+        <target></target>
+        //<target>ffindr the blog! Comments on the latest information about Frisbee events and its Web portal</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php_description_recent-blog-comments</source>
+        <target></target>
+        //<target>The RSS Feed of the most recent comments of the ffindr blog.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php_blog-commented</source>
+        <target></target>
+        //<target>%1% commented "%2%"</target>
+        // e.g. sasha87 commented "The First Blog entry"
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php-personal-filter</source>
+        <target></target>
+        //<target>RSS Feed for your personal filter "%1%"</target>
+        // e.g. RSS Feed for your personal filter "beach ultimate tournaments"
+      </trans-unit>
+
+      <trans-unit>
+        <source>feed/actions.class.php-upcoming-body</source>
+        <target></target>
+        //<target>RSS feed for upcoming tournaments and events on ffindr</target>
+      </trans-unit>
+
+      ///* filter/action *///
+
+      <trans-unit>
+        <source>filter/action.class.php_my-filter</source>
+        <target></target>
+        //<target>My filter %1%</target>
+        // e.g. My filter 5
+      </trans-unit>
+
+      ///* filter/list_filters *///
+
+      <trans-unit>
+        <source>filter/_list_filters.php_save-current-filter</source>
+        <target></target>
+        //<target>Save current filter</target>
+      </trans-unit>
+
+      ///* filter/edit *///
+
+      <trans-unit>
+        <source>filter/editSuccess.php-keyword</source>
+        <target></target>
+        //<target>Keyword:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-keyword-and</source>
+        <target></target>
+        //<target>AND</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-keyword-or</source>
+        <target></target>
+        //<target>OR</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-location</source>
+        <target></target>
+        //<target>Location:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-location-km</source>
+        <target></target>
+        //<target>%1% km around %2%</target>
+        // e.g. 250 km around Rio de Janeiro
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-filter-settings</source>
+        <target></target>
+        //<target>Filter settings</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php_label_discipline</source>
+        <target></target>
+        //<target>Discipline:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php_label_division</source>
+        <target></target>
+        //<target>Division:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-meta-settings</source>
+        <target></target>
+        //<target>Meta settings</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-created</source>
+        <target></target>
+        //<target>Date of creation:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/editSuccess.php-rss-options</source>
+        <target></target>
+        //<target>Edit RSS output (events only, links will be ignored)</target>
+      </trans-unit>
+
+      ///* filter/list *///
+
+      <trans-unit>
+        <source>filter/listSuccess.php_body-1</source>
+        <target></target>
+        //<target>Review your saved filters and configure their RSS properties.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/listSuccess.php_body-2</source>
+        <target></target>
+        //<target>A total of %1% filters can be saved, thus %2% more.</target>
+        // e.g. A total of 10 filters can be saved, thus 10 more.
+      </trans-unit>
+
+      ///* find/action *///
+
+      <trans-unit>
+        <source>find/action.class.php_title</source>
+        <target></target>
+        //<target>Search ffindr</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>find/action.class.php_title_keyword</source>
+        <target></target>
+        //<target>Search results for %1%</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>find/action.class.php_title_filtered-results</source>
+        <target></target>
+        //<target>Filtered search results</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>find/action.class.php_title_saved-filter-results</source>
+        <target></target>
+        //<target>Search results for the filter %1%</target>
+      </trans-unit>
+
+      ///* find/index *///
+
+      <trans-unit>
+        <source>find/indexSuccess.php_search_something</source>
+        <target></target>
+        //<target>Use the filters on the right to find Frisbee tournaments and/or (ulti)links.</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>find/indexSuccess.php_too_many_results</source>
+        <target></target>
+        //<target>More than %1% results have been found. Apply filtering or precise your search to narrow the results.</target>
+        // e.g. More than 25 results...
+      </trans-unit>
+
+      ///* link/show *///
+      
+      <trans-unit>
+        <source>link/showSuccess.php_title_vicinity</source>
+        <target></target>
+        //<target>Links in the vicinity</target>
+      </trans-unit>
+
+      ///* link/list *///
+
+      <trans-unit>
+        <source>link/listSuccess.php_title</source>
+        <target></target>
+        //<target>Frisbee links around the world</target>
+      </trans-unit>
+
+      ///* link/footer *///
+
+      <trans-unit>
+        <source>link/_footer.php_updated</source>
+        <target></target>
+        //<target>Updated</target>
+      </trans-unit>
+
+      ///* link/action *///
+
+      <trans-unit>
+        <source>link/action.class.php_title_add</source>
+        <target></target>
+        //<target>Add a new link</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/action.class.php_listByCountry_title</source>
+        <target></target>
+        //<target>Frisbee in %1%</target>
+        // e.g. Frisbee in Sweden
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/action.class.php_listLinkgroup_title-added</source>
+        <target></target>
+        //<target>Recently added links</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/action.class.php_listLinkgroup_title-anonymous</source>
+        <target></target>
+        //<target>Links added by anonymous</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/action.class.php_listLinkgroup_title-deleted</source>
+        <target></target>
+        //<target>Links deleted by users</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/action.class.php_listLinkgroup_title-reported</source>
+        <target></target>
+        //<target>Links reported with incorrect information</target>
+      </trans-unit>
+
+      ///* link/_options *///
+
+      <trans-unit>
+        <source>link/_options.php_edit</source>
+        <target></target>
+        //<target>Modify link</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/_options.php_remove</source>
+        <target></target>
+        //<target>Remove link</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/_options.php_remove-confirm</source>
+        <target></target>
+        //<target>Please confirm to delete!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/_options.php_reported</source>
+        <target></target>
+        //<target>[1]Reported by one user|(1,+Inf]Reported by %1% users</target>
+        // e.g. Reported by one user|Reported by 12 users
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/_options.php_report-reset</source>
+        <target></target>
+        //<target>(reset)</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>link/_options.php_report-reset-confirm</source>
+        <target></target>
+        //<target>Please confirm to remove the review flag!</target>
+      </trans-unit>
+
+      ///* mail/formSent *///
+
+      <trans-unit>
+        <source>user/formSentSuccess.class.php_title</source>
+        <target></target>
+        //<target>Thank you</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/formSentSuccess.class.php_body</source>
+        <target></target>
+        //<target>Your message has been sent successfully.</target>
+      </trans-unit>
+
+      ///* user/action.class.php *///
+
+      <trans-unit>
+        <source>user/action.class.php_find-users-title</source>
+        <target></target>
+        //<target>Find users</target>
+      </trans-unit>
+
+      ///* user/login *///
+
+      <trans-unit>
+        <source>user/loginSuccess.php_title</source>
+        <target></target>
+        //<target>Please login to access this feature</target>
+      </trans-unit>
+
+      ///* user/listUsergroup *///
+
+      <trans-unit>
+        <source>user/listUsergroupSuccess.php_user-since</source>
+        <target></target>
+        //<target>User since %1%</target>
+      </trans-unit>
+
+      ///* user/details *///
+
+      <trans-unit>
+        <source>user/_details.php-user-since</source>
+        <target></target>
+        //<target>User since:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-last-login</source>
+        <target></target>
+        //<target>Last login:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-authority</source>
+        <target></target>
+        //<target>Authority:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-moderator</source>
+        <target></target>
+        //<target>Moderator</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-administrator</source>
+        <target></target>
+        //<target>Administrator</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-contributed-events</source>
+        <target></target>
+        //<target>Contributed events:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-deleted-events</source>
+        <target></target>
+        //<target>Removed events:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-contributed-links</source>
+        <target></target>
+        //<target>Contributed links:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-deleted-links</source>
+        <target></target>
+        //<target>Removed links:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-favourites</source>
+        <target></target>
+        //<target>Favourites:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-filters</source>
+        <target></target>
+        //<target>Saved filters:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-toggle-grant</source>
+        <target></target>
+        //<target>Grant</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-toggle-withdraw</source>
+        <target></target>
+        //<target>Withdraw</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-toggle-credentials</source>
+        <target></target>
+        //<target>%1% %2% rights</target>
+        // e.g. Grant/Withdraw FFDF administrator rights
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/_details.php-toggle_edit-details</source>
+        <target></target>
+        //<target>Edit personal data</target>
+      </trans-unit>
+
+      ///* user/passwordRequest *///
+
+      <trans-unit>
+        <source>user/passwordSuccess.php_title</source>
+        <target></target>
+        //<target>Recover lost password</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/passwordSuccess.php_body</source>
+        <target></target>
+        //<target>Please enter your e-mail address in order to receive your login details. Be sure to enter the e-mail address you used to register on ffindr.</target>
+      </trans-unit>
+
+      ///* user/passwordMailSent *///
+
+      <trans-unit>
+        <source>user/passwordRequestMailSentSuccess.php-title</source>
+        <target></target>
+        //<target>Login details successfully sent</target>
+      </trans-unit>
+
+      ///* user/show *///
+
+      <trans-unit>
+        <source>user/showSuccess.php_title</source>
+        <target></target>
+        //<target>%1% profile</target>
+        // e.g. Tim88's profile
+      </trans-unit>
+      
+      <trans-unit>
+        <source>user/showSuccess.php_title_personal-data</source>
+        <target></target>
+        //<target>Personal data</target>
+      </trans-unit>
+
+      ///* data/Detail *///
+
+      <trans-unit>
+        <source>lib/model/Detail.php-grass</source>
+        <target></target>
+        //<target>Grass</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-artificial-turf</source>
+        <target></target>
+        //<target>Artifical turf</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-indoor</source>
+        <target></target>
+        //<target>Indoor</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-beach</source>
+        <target></target>
+        //<target>Beach</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-beach-indoor</source>
+        <target></target>
+        //<target>Beach indoor</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-tournament</source>
+        <target></target>
+        //<target>Fun tournament</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-hat</source>
+        <target></target>
+        //<target>Hat tournament</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-league</source>
+        <target></target>
+        //<target>League</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-qualification</source>
+        <target></target>
+        //<target>Sectionals / Regionals</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-national-championships</source>
+        <target></target>
+        //<target>National championships / cup</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-international-championships</source>
+        <target></target>
+        //<target>International championships</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-camp</source>
+        <target></target>
+        //<target>Training camp</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-meeting</source>
+        <target></target>
+        //<target>Meeting</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-open</source>
+        <target></target>
+        //<target>Open</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-women</source>
+        <target></target>
+        //<target>Women</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-mixed</source>
+        <target></target>
+        //<target>Mixed</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-masters</source>
+        <target></target>
+        //<target>Masters</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-juniors</source>
+        <target></target>
+        //<target>Juniors</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-college</source>
+        <target></target>
+        //<target>College</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-beginner</source>
+        <target></target>
+        //<target>Beginner</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-intermediate</source>
+        <target></target>
+        //<target>Intermediate</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-advanced</source>
+        <target></target>
+        //<target>Advanced</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-all</source>
+        <target></target>
+        //<target>All levels</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-ultimate</source>
+        <target></target>
+        //<target>Ultimate Frisbee</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-discgolf</source>
+        <target></target>
+        //<target>Disc golf</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-freestyle</source>
+        <target></target>
+        //<target>Freestyle</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-ddc</source>
+        <target></target>
+        //<target>Double Disc Court</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-others</source>
+        <target></target>
+        //<target>Others</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-goaltimate</source>
+        <target></target>
+        //<target>Goaltimate</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-team</source>
+        <target></target>
+        //<target>Team / Club / Training</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-blog</source>
+        <target></target>
+        //<target>Blog / News / Website</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-federation</source>
+        <target></target>
+        //<target>Federation / Organisation</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-pickup</source>
+        <target></target>
+        //<target>Pick up / Occasional games</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-field</source>
+        <target></target>
+        //<target>Field / Course / Place</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-shop</source>
+        <target></target>
+        //<target>Store / E-commerce</target>
+      </trans-unit>
+
+      ///* slot/login *///
+
+      <trans-unit>
+        <source>slot/component.class.php-not-yet-registered</source>
+        <target></target>
+        //<target>Not yet registered?</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/component.class.php-remember</source>
+        <target></target>
+        //<target>Login automatically on this computer</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/component.class.php-forgot-password</source>
+        <target></target>
+        //<target>Forgot your password?</target>
+      </trans-unit>
+
+      ///* slot/mat *///
+
+      <trans-unit>
+        <source>slot/_mat.php_rss-added</source>
+        <target></target>
+        //<target>RSS Feed for recently published information</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_mat.php_rss-results</source>
+        <target></target>
+        //<target>RSS Feed for recently added results</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_mat.php_rss-popular</source>
+        <target></target>
+        //<target>RSS Feed for popular events</target>
+      </trans-unit>
+
+      ///* slot/menuBlogadmin *///
+
+      <trans-unit>
+        <source>slot/_menuBlogadmin.php_title</source>
+        <target></target>
+        //<target>Blog administration</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuBlogadmin.php_show-drafts</source>
+        <target></target>
+        //<target>Show drafts</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuBlogadmin.php_create-post</source>
+        <target></target>
+        //<target>Create new post</target>
+      </trans-unit>
+
+      ///* slot/menuAdmin *///
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php-title</source>
+        <target></target>
+        //<target>User administration</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php-find-users</source>
+        <target></target>
+        //<target>Search registered users</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php_user-group-user</source>
+        <target></target>
+        //<target>Registered users</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php_user-group-administrator</source>
+        <target></target>
+        //<target>[1]Administrator|(1,+Inf]Administrators</target>
+        // e.g. Administrator|Administrators
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php_user-group-moderator</source>
+        <target></target>
+        //<target>[1]Moderator|(1,+Inf]Moderators</target>
+        // e.g. Moderator|Moderators
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuAdmin.php_user-group-generic</source>
+        <target></target>
+        //<target>[1]%1% administrator|(1,+Inf]%1% administrators</target>
+        // e.g. BULA administrator
+      </trans-unit>
+
+      ///* slot/menuModerator *///
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-title-event</source>
+        <target></target>
+        //<target>Event moderation</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-title-link</source>
+        <target></target>
+        //<target>Link moderation</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-title-link-certified</source>
+        <target></target>
+        //<target>%1% certified</target>
+        // e.g. BULA certified
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-title-export-bula</source>
+        <target></target>
+        //<target>Export BULA contacts</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-reported</source>
+        <target></target>
+        //<target>Incorrect information reported</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-anonymous</source>
+        <target></target>
+        //<target>Added by anonymous</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_menuModerator.php-deleted</source>
+        <target></target>
+        //<target>Deleted by users</target>
+      </trans-unit>
+
+      ///* slot/sidebarBlog *///
+
+      <trans-unit>
+        <source>slot/_sidebarBlog.php_title_recent-posts</source>
+        <target></target>
+        //<target>Recent blog posts</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarBlog.php_title_archive</source>
+        <target></target>
+        //<target>Blog archive</target>
+      </trans-unit>
+
+      ///* slot/sidebarEvents *///
+
+      <trans-unit>
+        <source>slot/_sidebarEvents.php_title_browse-years</source>
+        <target></target>
+        //<target>Browse by year</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarEvents.php_tournament_calendar</source>
+        <target></target>
+        //<target>%1% tournament calendar</target>
+        // e.g. 2008 tournament calendar
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarEvents.php_title_related-links</source>
+        <target></target>
+        //<target>Related links</target>
+      </trans-unit>
+
+      ///* slot/sidebarLinks *///
+
+      <trans-unit>
+        <source>slot/_sidebarLinks.php_title_related-events</source>
+        <target></target>
+        //<target>Related events</target>
+      </trans-unit>
+
+      ///* slot/sidebarFind *///
+
+      <trans-unit>
+        <source>slot/_sidebarFind.php_legend</source>
+        <target></target>
+        //<target>¹ for events only</target>
+        // e.g.   ¹ for events only
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarFind.php_title-search</source>
+        <target></target>
+        //<target>Filter search</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarFind.php_title-saved-filters</source>
+        <target></target>
+        //<target>Saved filters</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarFind.php_manage-saved-filters</source>
+        <target></target>
+        //<target>Manage saved filters</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>slot/_sidebarFind.php_login-required</source>
+        <target></target>
+        //<target>Save your filtered search and get a custom RSS feed. This feature requires an account, so please %1% for free and/or %2%.</target>
+        // e.g.   Save your filtered search and get a custom RSS feed. This feature requires an account, so please register for free or login.
+      </trans-unit>
+
+      ///* user/register *///
+
+      <trans-unit>
+        <source>user/registerSuccess.php_title</source>
+        <target></target>
+        //<target>Join ffindr now!</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>user/registerSuccess.php_body</source>
+        <target></target>
+        //<target>A ffindr account comes with a bunch of advantages, and is certainly free.</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

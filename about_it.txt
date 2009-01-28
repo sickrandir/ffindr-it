@@ -1,0 +1,20 @@
+## Idea
+
+ffindr intends to:
+
+- concentrate and standardise Frisbee information that is currently spread all around the web,
+- facilitate and support the coordination and propagation of Frisbee of any kind,
+- serve as an archive of past tournament results, providing a quick access at a single place.
+
+## Background
+
+ffindr grew out of the need for a truly simple Frisbee management tool that works 24/7 and around the world. Initially conceived and developped by [Christian](/en/user/christian), a German web developper living in Paris, ffindr went live in September 2007. On his side is a growing group of people helping to improve ffindr. Special thanks goes to [Charlie](/en/user/charlineo) (Paris), [Erik](/en/user/efelgner) (Erlangen),Jano (Paris), [Justin](/en/user/layoutd) (Madrid), [Mariana](/en/user/mariana) (Paris), [Marvin](/en/user/Marvin) (Stuttgart), [Patrick](/en/user/bulabula) (Lissabon), [Roger](/en/user/roger) (Barcelona), [Sasha](/en/user/hovsky) (Kiev)... and you?
+
+Feel free to join us, the more we are the better the service will be. We're always looking for people eager to:
+
+- contribute content (*adding new teams, blogs, tourneys...*),
+- signal bugs (*something does not behave as you expect?*),
+- translate the interface (*ffindr in your language? no problem, it's up to you!*),
+- moderate tournaments (*eager to become the manager of a certain country?*),
+- provide new ideas (*anything that you ever wished on ffindr?*),
+- spread the word (*yes, there are still people around that don't know us*).
