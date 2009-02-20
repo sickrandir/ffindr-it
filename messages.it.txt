@@ -226,7 +226,7 @@
       <trans-unit>
         <source>form/CommentForm.class.php_label_notification</source>
         <target></target>
-        //<target>Follow comments?</target>
+        //<target>Follow comments?:</target>
       </trans-unit>
 
       <trans-unit>
@@ -298,7 +298,7 @@
         <target></target>
         //<target>Level of play:</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>form/EventForm.class.php_label_date</source>
         <target></target>
@@ -315,6 +315,12 @@
         <source>form/EventForm.class.php_label_date-end</source>
         <target></target>
         //<target>End date:</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>form/EventForm.class.php_label_date-tentative</source>
+        <target></target>
+        //<target>Tentative date?:</target>
       </trans-unit>
 
       <trans-unit>
@@ -358,7 +364,7 @@
         <target></target>
         //<target>Required</target>
       </trans-unit>
-      
+
       ///* form/FilterForm *///
 
       <trans-unit>
@@ -424,25 +430,25 @@
       <trans-unit>
         <source>form/FilterForm.class.php_label_by-format</source>
         <target></target>
-        //<target>By format¹:</target>
+        //<target>By format:</target>
       </trans-unit>
 
       <trans-unit>
         <source>form/FilterForm.class.php_label_by-surface</source>
         <target></target>
-        //<target>By surface¹:</target>
+        //<target>By surface:</target>
       </trans-unit>
 
       <trans-unit>
         <source>form/FilterForm.class.php_label_by-division</source>
         <target></target>
-        //<target>By division¹:</target>
+        //<target>By division:</target>
       </trans-unit>
 
       <trans-unit>
         <source>form/FilterForm.class.php_label_by-level</source>
         <target></target>
-        //<target>By level of play¹:</target>
+        //<target>By level of play:</target>
       </trans-unit>
 
       <trans-unit>
@@ -457,6 +463,13 @@
         <source>form/FilterEditForm.class.php_gcal</source>
         <target></target>
         //<target>Export to Google Calendar:</target>
+      </trans-unit>
+
+      //new
+      <trans-unit>
+        <source>form/FilterEditForm.class.php_current-year</source>
+        <target></target>
+        //<target>Always current year</target>
       </trans-unit>
 
       <trans-unit>
@@ -486,8 +499,8 @@
       <trans-unit>
         <source>form/FilterEditForm.class.php_filter-partner</source>
         <target></target>
-        //<target>%1% certified events only:</target>
-        // e.g.   BULA certified events only
+        //<target>%1% certified:</target>
+        // e.g.   BULA certified
       </trans-unit>
 
       ///* form/LoginForm *///
@@ -509,7 +522,7 @@
         <target></target>
         //<target>Your password:</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>form/LoginForm.class.php_validate_invalid</source>
         <target></target>
@@ -601,7 +614,7 @@
         <target></target>
         //<target>Please select at least one discipline.</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>form/LinkForm.class.php_format-required</source>
         <target></target>
@@ -625,7 +638,7 @@
         <target></target>
         //<target>Please select the level of play.</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>form/LinkForm.class.php_type-required</source>
         <target></target>
@@ -786,7 +799,7 @@
         <target></target>
         //<target>Username already taken.</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>form/UserForm.class.php_validate_password-required</source>
         <target></target>
@@ -885,7 +898,7 @@
       </trans-unit>
 
       ///* helper/event *///
-      
+
       <trans-unit>
         <source>helper/EventHelper.php_certify</source>
         <target></target>
@@ -928,7 +941,14 @@
 
       <trans-unit>
         <source>helper/GlobalHelper.php_contact</source>
-        <target>Send a message</target>
+        <target></target>
+        //<target>Send a message</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>helper/GlobalHelper.php_contact-to</source>
+        <target></target>
+        //<target>Send a message to %name%</target>
       </trans-unit>
 
       ///* helper/link *///
@@ -1025,7 +1045,7 @@
         //<target>Welcome back, %1%!</target>
         // e.g.   Welcome back, Patrick!
       </trans-unit>
-      
+
       ///* blog/action *///
 
       <trans-unit>
@@ -1046,7 +1066,7 @@
         <target></target>
         //<target>Create new blog post</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>blog/action.class.php_title_edit</source>
         <target></target>
@@ -1157,7 +1177,7 @@
       <trans-unit>
         <source>content/_teaser_box.php_teaser1-body3</source>
         <target></target>
-        //<target>create and subscribe to personalised RSS feeds</target>
+        //<target>create custom tournament calendars</target>
       </trans-unit>
 
       <trans-unit>
@@ -1247,13 +1267,13 @@
         <target></target>
         //<target>Frisbee portal blog</target>
       </trans-unit>
-      
+
       <trans-unit>
         <source>content/indexSuccess.php_rss-blog</source>
         <target></target>
         //<target>RSS Feed for blog posts</target>
       </trans-unit>
-      
+
       ///* content/create *///
 
       <trans-unit>
@@ -1357,6 +1377,12 @@
         //<target>%1% tournament calendar for %2%</target>
         // e.g. 2008 tournament calendar for Brazil
       </trans-unit>
+      
+      <trans-unit>
+        <source>event/actions.class.php_event-count</source>
+        //<target>[0]|[1](%count% event)|(1,+Inf](%count% events)</target>
+        // e.g. (34 events)
+      </trans-unit>
 
       <trans-unit>
         <source>event/actions.class.php-upcoming-per-country</source>
@@ -1400,9 +1426,15 @@
       </trans-unit>
 
       <trans-unit>
+        <source>event/showSuccess.php-trip-planner-title</source>
+        <target></target>
+        //<target>Get directions</target>
+      </trans-unit>
+
+      <trans-unit>
         <source>event/showSuccess.php-trip-planner-text</source>
         <target></target>
-        //<target>Type your starting location to see how to get there</target>
+        //<target>Type your starting location to see how to get there.</target>
       </trans-unit>
 
       <trans-unit>
@@ -1417,7 +1449,31 @@
         //<target>In the vicinity</target>
       </trans-unit>
 
+      <trans-unit>
+        <source>event/showSuccess.php_title_useful</source>
+        <target></target>
+        //<target>Useful listings</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>event/showSuccess.php_useful_tourneys</source>
+        <target></target>
+        //<target>Tournaments in %country%</target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>event/showSuccess.php_useful_links</source>
+        <target></target>
+        //<target>Links for %country%</target>
+      </trans-unit>
+      
       ///* event/details *///
+
+      <trans-unit>
+        <source>event/_details.php_label_tentative</source>
+        <target></target>
+        //<target>tentative date</target>
+      </trans-unit>
 
       <trans-unit>
         <source>event/_details.php_label_contact</source>
@@ -1502,8 +1558,8 @@
       <trans-unit>
         <source>feed/actions.class.php-personal-filter</source>
         <target></target>
-        //<target>RSS Feed for your personal filter "%1%"</target>
-        // e.g. RSS Feed for your personal filter "beach ultimate tournaments"
+        //<target>RSS Feed for your custom calendar "%1%"</target>
+        // e.g. RSS Feed for your custom calendar "beach ultimate tournaments"
       </trans-unit>
 
       <trans-unit>
@@ -1515,10 +1571,21 @@
       ///* filter/action *///
 
       <trans-unit>
+        <source>filter/action.class.php_title_custom-calendar</source>
+        <target></target>
+        //<target>Your custom %year% tournament calendar%name%</target>
+      </trans-unit>
+
+      <trans-unit>
         <source>filter/action.class.php_my-filter</source>
         <target></target>
-        //<target>My filter %1%</target>
-        // e.g. My filter 5
+        //<target>Your calendar</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>filter/action.class.php_link-count</source>
+        //<target>[0]|[1](%count% link)|(1,+Inf](%count% links)</target>
+        // e.g. (34 links)
       </trans-unit>
 
       ///* filter/list_filters *///
@@ -1526,7 +1593,7 @@
       <trans-unit>
         <source>filter/_list_filters.php_save-current-filter</source>
         <target></target>
-        //<target>Save current filter</target>
+        //<target>Save current calendar</target>
       </trans-unit>
 
       ///* filter/edit *///
@@ -1565,7 +1632,7 @@
       <trans-unit>
         <source>filter/editSuccess.php-filter-settings</source>
         <target></target>
-        //<target>Filter settings</target>
+        //<target>Calendar settings</target>
       </trans-unit>
 
       <trans-unit>
@@ -1595,22 +1662,15 @@
       <trans-unit>
         <source>filter/editSuccess.php-rss-options</source>
         <target></target>
-        //<target>Edit RSS output (events only, links will be ignored)</target>
+        //<target>Edit RSS output</target>
       </trans-unit>
 
-      ///* filter/list *///
+      ///* filter/links *///
 
       <trans-unit>
-        <source>filter/listSuccess.php_body-1</source>
+        <source>filter/linksSuccess.php_title</source>
         <target></target>
-        //<target>Review your saved filters and configure their RSS properties.</target>
-      </trans-unit>
-
-      <trans-unit>
-        <source>filter/listSuccess.php_body-2</source>
-        <target></target>
-        //<target>A total of %1% filters can be saved, thus %2% more.</target>
-        // e.g. A total of 10 filters can be saved, thus 10 more.
+        //<target>Your custom ultilinks</target>
       </trans-unit>
 
       ///* find/action *///
@@ -1650,12 +1710,12 @@
       <trans-unit>
         <source>find/indexSuccess.php_too_many_results</source>
         <target></target>
-        //<target>More than %1% results have been found. Apply filtering or precise your search to narrow the results.</target>
+        //<target>More than %1% results have been found.</target>
         // e.g. More than 25 results...
       </trans-unit>
 
       ///* link/show *///
-      
+
       <trans-unit>
         <source>link/showSuccess.php_title_vicinity</source>
         <target></target>
@@ -1859,7 +1919,7 @@
       <trans-unit>
         <source>user/_details.php-filters</source>
         <target></target>
-        //<target>Saved filters:</target>
+        //<target>Saved tournament calendars:</target>
       </trans-unit>
 
       <trans-unit>
@@ -1917,7 +1977,7 @@
         //<target>%1% profile</target>
         // e.g. Tim88's profile
       </trans-unit>
-      
+
       <trans-unit>
         <source>user/showSuccess.php_title_personal-data</source>
         <target></target>
@@ -1959,7 +2019,7 @@
       <trans-unit>
         <source>lib/model/Detail.php-tournament</source>
         <target></target>
-        //<target>Fun tournament</target>
+        //<target>Tournament</target>
       </trans-unit>
 
       <trans-unit>
@@ -2031,13 +2091,67 @@
       <trans-unit>
         <source>lib/model/Detail.php-juniors</source>
         <target></target>
-        //<target>Juniors</target>
+        //<target>Juniors Under 20</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-juniors-under-17</source>
+        <target></target>
+        //<target>Juniors Under 17</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-juniors-under-15</source>
+        <target></target>
+        //<target>Juniors Under 15</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-junior-girls-under-20</source>
+        <target></target>
+        //<target>Junior Girls Under 20</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-junior-girls-under-17</source>
+        <target></target>
+        //<target>Junior Girls Under 17</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-junior-girls-under-15</source>
+        <target></target>
+        //<target>Junior Girls Under 15</target>
       </trans-unit>
 
       <trans-unit>
         <source>lib/model/Detail.php-college</source>
         <target></target>
-        //<target>College</target>
+        //<target>College Open</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-college-women</source>
+        <target></target>
+        //<target>College Women</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-college-mixed</source>
+        <target></target>
+        //<target>College Mixed</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-elite-open</source>
+        <target></target>
+        //<target>Elite Open</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-elite-women</source>
+        <target></target>
+        //<target>Elite Women</target>
       </trans-unit>
 
       <trans-unit>
@@ -2134,6 +2248,12 @@
         <source>lib/model/Detail.php-shop</source>
         <target></target>
         //<target>Store / E-commerce</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>lib/model/Detail.php-photos</source>
+        <target></target>
+        //<target>Image gallery / Photography</target>
       </trans-unit>
 
       ///* slot/login *///
@@ -2317,6 +2437,14 @@
         //<target>Related links</target>
       </trans-unit>
 
+      ///* slot/sidebarFilterLinks *///
+
+      <trans-unit>
+        <source>slot/_sidebarFilterLinks.php_title</source>
+        <target></target>
+        //<target>Filter ultilinks</target>
+      </trans-unit>
+
       ///* slot/sidebarLinks *///
 
       <trans-unit>
@@ -2325,38 +2453,31 @@
         //<target>Related events</target>
       </trans-unit>
 
-      ///* slot/sidebarFind *///
-
-      <trans-unit>
-        <source>slot/_sidebarFind.php_legend</source>
-        <target></target>
-        //<target>¹ for events only</target>
-        // e.g.   ¹ for events only
-      </trans-unit>
+      ///* slot/sidebarCalendar *///
 
       <trans-unit>
         <source>slot/_sidebarFind.php_title-search</source>
         <target></target>
-        //<target>Filter search</target>
+        //<target>Create a custom calendar</target>
       </trans-unit>
 
       <trans-unit>
         <source>slot/_sidebarFind.php_title-saved-filters</source>
         <target></target>
-        //<target>Saved filters</target>
+        //<target>Your saved calendars</target>
       </trans-unit>
 
       <trans-unit>
         <source>slot/_sidebarFind.php_manage-saved-filters</source>
         <target></target>
-        //<target>Manage saved filters</target>
+        //<target>Manage your saved calendars</target>
       </trans-unit>
 
       <trans-unit>
         <source>slot/_sidebarFind.php_login-required</source>
         <target></target>
-        //<target>Save your filtered search and get a custom RSS feed. This feature requires an account, so please %1% for free and/or %2%.</target>
-        // e.g.   Save your filtered search and get a custom RSS feed. This feature requires an account, so please register for free or login.
+        //<target>Save your custom calendar and get an RSS feed. This feature requires an account, so please %1% for free and/or %2%.</target>
+        // e.g.   Save your custom calendar and get an RSS feed. This feature requires an account, so please register for free or login.
       </trans-unit>
 
       ///* user/register *///
